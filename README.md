@@ -1,5 +1,8 @@
 # Techat Chat Application
 ## Features
+- User Authentication 
+- Multple Channel Creation
+- Image/Vedio Support
 ## Tech Stack
 - React Js [Docs](https://reactstrap.github.io/)
 - Appwrite.io [Docs](https://appwrite.io/docs/)
